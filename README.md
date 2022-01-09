@@ -29,6 +29,8 @@ The purpose of this project was to determine whether refactoring a previously co
   
 ## Summary: 
 
-## There are both advantages and disadvantages to refactoring code. An advantage as reflected in this analysis is the opportunity to capitzlie on performance time and efficacy for a script. In the circumstance with our client, this also may allow him to get the information they are seeking at a much faster rate. A disadvantage of this process, ironically, can be the time needed to refactor a code. For this client, the time saving nature of this script are beneficial, but there may be less time or demand sensitive results needed in a code, rendering the refactor unnecessary. 
+There are both advantages and disadvantages to refactoring code. An advantage as reflected in this analysis is the opportunity to capitzlie on performance time and efficacy for a script. In the circumstance with our client, this also may allow him to get the information they are seeking at a much faster rate. In essence, we were able to improve the internal structure of the code without altering the output.  A disadvantage of this process, ironically, can be the time needed to refactor a code. For this client, the time saving nature of this script are beneficial, but there may be less time or demand sensitive results needed in a code, rendering the refactor unnecessary. It also may better serve the user of the VBA to start fresh with code as oppose to attempt to revamp it.
 
 ## How do these pros and cons apply to factoring the original VBA script?
+
+These pros and cons apply directly to factoring the original VBA script. Upon successful refactoring, the analysis above shows that the script can be altered to improve performance time. However, as a novice to VBA, the amount of time required to refactor far outweighed creating the original script. However, this user error will likely decrease with time as the user becomes more well versed in VBA. 
